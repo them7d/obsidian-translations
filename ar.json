@@ -6,7 +6,7 @@
 		"plugin-options": "خيارات الإضافات",
 		"folder-path-example-placeholder": "مثال: ملف 1 /ملف 2",
 		"file-path-example-placeholder": "مثال: ملف/مذكرة",
-		"msg-restart-required": "Changing this option requires a restart to take effect.",
+		"msg-restart-required": "تغيير هذا الخيار يتطلب اعادة التشغيل لتنفيذ التغيير",
 		"editor": {
 			"name": "محرر",
 			"section-general": "عام",
@@ -20,7 +20,7 @@
 			"spellcheck-dict": "قاموس التدقيق الإملائي",
 			"spellcheck-dict-empty": "قاموس التدقيق الإملائي فارغ.",
 			"option-show-inline-title": "Show inline title",
-			"option-show-inline-title-description": "Displays the filename as an editable title inline with the file contents.",
+			"option-show-inline-title-description": "عرض اسم الملف كعنوان قابل للتعديل مع محتوى الملف",
 			"option-readable-line-length": "طول الخط المقروء",
 			"option-readable-line-description": "ضع حد أقصى لطول السطر.",
 			"option-strict-line-break": "فاصل السطر",
