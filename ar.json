@@ -6,7 +6,7 @@
 		"plugin-options": "خيارات الإضافات",
 		"folder-path-example-placeholder": "مثال: ملف 1 /ملف 2",
 		"file-path-example-placeholder": "مثال: ملف/مذكرة",
-		"msg-restart-required": "تغيير هذا الخيار يتطلب اعادة التشغيل لتنفيذ التغيير",
+		"msg-restart-required": "تغيير هذا الخيار يتطلب اعادة التشغيل لاظهار التغيير",
 		"editor": {
 			"name": "محرر",
 			"section-general": "عام",
